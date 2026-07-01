@@ -1,0 +1,7 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+
+# Local editor and tool state
+.vscode/
+.fina.json
